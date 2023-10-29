@@ -2,4 +2,5 @@
 
 ## 目录
 
-- [策略模式](./strategy-pattern)
+- [单例模式（Singleton Pattern）](./singleton-pattern)
+- [策略模式（Strategy Pattern）](./strategy-pattern)
