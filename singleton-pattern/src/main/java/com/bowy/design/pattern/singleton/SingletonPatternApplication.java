@@ -1,5 +1,6 @@
 package com.bowy.design.pattern.singleton;
 
+import com.bowy.design.pattern.singleton.entity.Boss;
 import com.bowy.design.pattern.singleton.entity.President;
 
 /**
@@ -14,6 +15,10 @@ public class SingletonPatternApplication {
 		System.out.println(President.getInstance());
 		System.out.println(President.getInstance());
 		System.out.println(President.getInstance());
+		System.out.println("=====================");
+		System.out.println(Boss.getInstance());
+		System.out.println(Boss.getInstance());
+		System.out.println(Boss.getInstance());
 	}
 
 }
