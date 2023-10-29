@@ -10,7 +10,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.bowy.design.pattern.strategy</groupId>
+    <groupId>com.bowy.design.pattern</groupId>
     <artifactId>pattern-strategy</artifactId>
     <version>1.0.0</version>
 
