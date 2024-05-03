@@ -13,6 +13,7 @@
     <description>Design Patterns on Java Best practices</description>
 
     <modules>
+        <module>factory-pattern</module>
         <module>singleton-pattern</module>
         <module>strategy-pattern</module>
     </modules>
