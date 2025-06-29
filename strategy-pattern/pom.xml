@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>com.bowy.design.pattern</groupId>
-    <artifactId>pattern-strategy</artifactId>
+    <artifactId>strategy-pattern</artifactId>
     <version>1.0.0</version>
 
     <name>strategy-pattern</name>
