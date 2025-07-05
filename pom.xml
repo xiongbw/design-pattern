@@ -15,6 +15,7 @@
     <modules>
         <module>adapter-pattern</module>
         <module>factory-pattern</module>
+        <module>prototype-pattern</module>
         <module>singleton-pattern</module>
         <module>strategy-pattern</module>
     </modules>
