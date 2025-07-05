@@ -1,8 +1,8 @@
-package com.bowy.design.prototype;
+package com.bowy.design.pattern.prototype;
 
-import com.bowy.design.prototype.model.Address;
-import com.bowy.design.prototype.model.People;
-import com.bowy.design.prototype.model.User;
+import com.bowy.design.pattern.prototype.model.Address;
+import com.bowy.design.pattern.prototype.model.People;
+import com.bowy.design.pattern.prototype.model.User;
 
 /**
  * 原型模式应用

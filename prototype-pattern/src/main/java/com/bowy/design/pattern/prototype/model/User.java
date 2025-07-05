@@ -1,4 +1,4 @@
-package com.bowy.design.prototype.model;
+package com.bowy.design.pattern.prototype.model;
 
 /**
  * 用户
