@@ -1,6 +1,7 @@
 package com.bowy.design.prototype;
 
 import com.bowy.design.prototype.model.Address;
+import com.bowy.design.prototype.model.People;
 import com.bowy.design.prototype.model.User;
 
 /**
@@ -12,6 +13,8 @@ public class PrototypePatternApplication {
 
     public static void main(String[] args) {
         shallowCopy();
+        System.out.println("===============");
+        deepCopy();
     }
 
     /**
@@ -37,6 +40,31 @@ public class PrototypePatternApplication {
 
         System.out.println(user);
         System.out.println(clonedUser);
+    }
+
+    /**
+     * 深拷贝
+     */
+    private static void deepCopy() {
+        // 创建原型对象
+        Address address = new Address("深圳", "粤海街道");
+        People people = new People();
+        people.setAge(18);
+        people.setName("Bob");
+        people.setAddress(address);
+        System.out.println(people);
+
+        // 克隆对象
+        People clonedPeople = people.clone();
+        System.out.println(clonedPeople);
+
+        // 修改原始对象字段信息
+        people.setAge(19);
+        people.setName("Jack");
+        people.getAddress().setStreet("南山街道");
+
+        System.out.println(people);
+        System.out.println(clonedPeople);
     }
 
 }
