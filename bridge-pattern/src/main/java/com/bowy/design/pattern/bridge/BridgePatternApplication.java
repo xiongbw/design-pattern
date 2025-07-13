@@ -1,7 +1,9 @@
 package com.bowy.design.pattern.bridge;
 
 /**
- * Hello world!
+ * 桥接模式应用
+ *
+ * @author xiongbw
  */
 public class BridgePatternApplication {
 
