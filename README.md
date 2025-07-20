@@ -5,6 +5,7 @@
 - [适配器模式（Adapter Pattern）](./adapter-pattern)
 - [桥接模式（Bridge Pattern）](./bridge-pattern)
 - [组合模式（Composite Pattern）](./composite-pattern)
+- [装饰模式（Decorator Pattern）](./decorator-pattern)
 - [工厂模式（Factory Pattern）](./factory-pattern)
 - [原型模式（Prototype Pattern）](./prototype-pattern)
 - [代理模式（Proxy Pattern）](./proxy-pattern)
