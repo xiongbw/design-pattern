@@ -17,6 +17,7 @@
         <module>bridge-pattern</module>
         <module>composite-pattern</module>
         <module>decorator-pattern</module>
+        <module>facade-pattern</module>
         <module>factory-pattern</module>
         <module>prototype-pattern</module>
         <module>proxy-pattern</module>
