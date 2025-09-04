@@ -9,6 +9,7 @@
 - [外观模式（Facade Pattern）](./facade-pattern)
 - [工厂模式（Factory Pattern）](./factory-pattern)
 - [原型模式（Prototype Pattern）](./prototype-pattern)
+- [享元模式（Flyweight Pattern）](./flyweight-pattern)
 - [代理模式（Proxy Pattern）](./proxy-pattern)
 - [单例模式（Singleton Pattern）](./singleton-pattern)
 - [策略模式（Strategy Pattern）](./strategy-pattern)
