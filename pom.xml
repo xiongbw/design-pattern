@@ -19,6 +19,7 @@
         <module>decorator-pattern</module>
         <module>facade-pattern</module>
         <module>factory-pattern</module>
+        <module>flyweight-pattern</module>
         <module>prototype-pattern</module>
         <module>proxy-pattern</module>
         <module>singleton-pattern</module>
