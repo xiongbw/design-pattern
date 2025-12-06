@@ -4,6 +4,7 @@
 
 - [适配器模式（Adapter Pattern）](./adapter-pattern)
 - [桥接模式（Bridge Pattern）](./bridge-pattern)
+- [建造者模式（Builder Pattern）](./builder-pattern)
 - [组合模式（Composite Pattern）](./composite-pattern)
 - [装饰模式（Decorator Pattern）](./decorator-pattern)
 - [外观模式（Facade Pattern）](./facade-pattern)
