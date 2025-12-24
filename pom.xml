@@ -26,6 +26,7 @@
         <module>proxy-pattern</module>
         <module>singleton-pattern</module>
         <module>strategy-pattern</module>
+        <module>template-method-pattern</module>
     </modules>
 
     <properties>
