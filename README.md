@@ -15,3 +15,4 @@
 - [代理模式（Proxy Pattern）](./proxy-pattern)
 - [单例模式（Singleton Pattern）](./singleton-pattern)
 - [策略模式（Strategy Pattern）](./strategy-pattern)
+- [模板方法模式（Template Method Pattern）](./template-method-pattern)
